@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **logenthiranvisagan@gmail.com**
 
-- ⚡ Fun fact **I think i am funny but serious on work.**
+- ⚡ Fun fact **I enjoy bringing creativity and humor to my work, but I’m always focused on delivering serious results.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
