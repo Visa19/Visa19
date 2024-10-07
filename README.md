@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Visagan</h1>
-<h3 align="center">A passionate developer from Sri Lanka reading Bsc(Hons) in Industrial Information Technology from Uva Wellassa University of Sri Lanka.</h3>
+<h3 align="center">A passionate web developer from Sri Lanka reading Bsc(Hons) in Industrial Information Technology from Uva Wellassa University of Sri Lanka.</h3>
 
 - 🔭 I’m currently working on **GoPool**
 
