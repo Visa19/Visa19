@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Visagan</h1>
-<h3 align="center">A passionate PHP Devloper, QA engineer from Sri Lanka reading Bsc(Hons) in Industrial Information Technology from Uva Wellassa University of Sri Lanka.</h3>
+<h3 align="center">A passionate QA engineer, PHP Developer from Sri Lanka reading BSc (Hons) in Industrial Information Technology from Uva Wellassa University of Sri Lanka.</h3>
 
-- 🔭 I’m currently working on **GoPool - Manual Testing**
+- 🔭 I’m currently working on **Manual Testing**
 
-- 🤝 I’m looking for help with **PHP development, Quality Assurance, Project management**
+- 🤝 I’m looking to help with **Quality Assurance, PHP development, Project management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Visa19](https://github.com/Visa19)
 
-- 💬 Ask me about **Web development , Quality Assurance , Project management etc..**
+- 💬 Ask me about **Web development, Quality Assurance, Project management, etc.**
 
-- 📫 How to reach me **logenthiranvisagan@gmail.com**
+- 📫 How to reach me **logenthiranvisagan10@gmail.com**
 
-- ⚡ Fun fact **I enjoy bringing creativity and humor to my work, but I’m always focused on delivering serious results.**
+- ⚡ Fun fact **I enjoy bringing creativity and humor to my work, but always focus on delivering serious results.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
