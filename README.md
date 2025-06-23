@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Visagan</h1>
-<h3 align="center">A passionate QA engineer, PHP developer from Sri Lanka reading BSc (Hons) in Industrial Information Technology from Uva Wellassa University of Sri Lanka.</h3>
+<h3 align="center">A passionate QA engineer intern from Sri Lanka reading BSc (Hons) in Industrial Information Technology from Uva Wellassa University of Sri Lanka.</h3>
 
 - 🔭 I’m currently working on Navicode Pvt( ltd) as **Intern Automation QA Enginner**
 
-- 🤝 Former Intern QA Engineer  @  **Organia Innovations Labs **
+- 🤝 Former Intern QA Engineer  @   **Organia Innovations Labs**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Visa19](https://github.com/Visa19)
 
-- 💬 Ask me about **Quality Assurance, Quality Control, Automation Testing, etc..**
+- 💬 Ask me about **Quality Assurance, Quality Control, Automation Testing, etc.**
 
 - 📫 How to reach me **logenthiranvisagan10@gmail.com**
 
-- ⚡ Fun fact **I enjoy bringing creativity and humor to my work, but always focus on delivering serious results.**
+- Fun fact: **I enjoy bringing creativity and humor to my work, while always focusing on delivering serious results.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
