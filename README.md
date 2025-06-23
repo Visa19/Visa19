@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Visagan</h1>
 <h3 align="center">A passionate QA engineer intern from Sri Lanka reading BSc (Hons) in Industrial Information Technology from Uva Wellassa University of Sri Lanka.</h3>
 
-- 🔭 I’m currently working @ Navicode Pvt( ltd) as **Intern Automation QA Enginner**
+- 🔭 I’m currently working @ Navicode Pvt( ltd) as **Intern Automation QA Enginner**.
 
 - 🤝 Former Intern QA Engineer  @   **Organia Innovations Labs**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Visa19](https://github.com/Visa19)
+- 👨‍💻 All of my projects are available at [https://github.com/Visa19](https://github.com/Visa19).
 
 - 💬 Ask me about **Quality Assurance, Quality Control, Automation Testing, etc.**
 
-- 📫 How to reach me **logenthiranvisagan10@gmail.com**
+- 📫 How to reach me **logenthiranvisagan10@gmail.com**.
 
 - Fun fact: **I enjoy bringing creativity and humor to my work, while always focusing on delivering serious results.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/logenthiran-visagan-3b221b23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/logenthiran-visagan-3b221b23b" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100083064513377&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100083064513377&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@VisaTestLab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Channel : Visa Test Lab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
