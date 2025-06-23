@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Visagan</h1>
 <h3 align="center">A passionate QA engineer intern from Sri Lanka reading BSc (Hons) in Industrial Information Technology from Uva Wellassa University of Sri Lanka.</h3>
 
-- 🔭 I’m currently working on Navicode Pvt( ltd) as **Intern Automation QA Enginner**
+- 🔭 I’m currently working @ Navicode Pvt( ltd) as **Intern Automation QA Enginner**
 
 - 🤝 Former Intern QA Engineer  @   **Organia Innovations Labs**.
 
