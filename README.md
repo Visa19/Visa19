@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working @ **SoftSora Pvt (ltd) as Intern QA Enginner**.<br><br>🤝 Former Intern QA Engineer @ Organia Innovations Labs Pvt (ltd).<br><br>👨‍💻 **Check my website at https://visagan.lovable.app**<br><br>💬 Ask me about Quality Assurance, Quality Control, Automation Testing, etc.<br><br>📫 How to reach me logenthiranvisagan10@gmail.com.
+🔭 I’m currently working @ **SoftSora Pvt (ltd) as Intern QA Enginner**.<br><br>🤝 Former Intern QA Engineer @ Organia Innovations Labs Pvt (ltd).<br><br>👨‍💻 **Check my website at https://visagan.lovable.app**<br><br>💬 Ask me about Quality Assurance, Quality Control, Automation Testing, etc.
 
 
 ## 🌐 Socials
